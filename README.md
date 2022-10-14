@@ -1,5 +1,5 @@
 # R-Markdown-and-Leaflet
-# Author: Laxmidhar Routa
+Author: Laxmidhar Routa
 ### Assignment
 Create a web page using R Markdown that features a map created with Leaflet.
 
